@@ -1,0 +1,1 @@
+* é uma linguagem híbrida, metade do seu processo é compilação (pegar o código e criar um arquivo em bytecode) e a outra metade interpretação através do JVM

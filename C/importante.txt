@@ -1,0 +1,1 @@
+#a partir de 25/03 começamos JAVA, mas fomos até condicionais em C, incluindo o if ternário e o professor sugeriu que estudassemos repetições.
